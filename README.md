@@ -14,4 +14,6 @@ test 3
 
 4. test 4 master 수동 커밋
 
+
+6. local edit
 ## sub branch 12
