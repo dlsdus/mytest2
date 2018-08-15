@@ -17,3 +17,5 @@ test 3
 5. test git md
 
 6. local edit
+
+7. tag test
