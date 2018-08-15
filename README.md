@@ -12,5 +12,6 @@ test 3
 
 3. 우리나라3
 
+4. test 4 master 수동 커밋
 
 ## sub branch 12
