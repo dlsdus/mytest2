@@ -21,5 +21,3 @@ test 3
 7. tag test
 
 9. PC 변경 
-
-12. PC 변경 2
