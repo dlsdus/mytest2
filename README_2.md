@@ -19,5 +19,3 @@ test 3
 6. local edit
 
 7. tag test
-
-9. PC 변경 
