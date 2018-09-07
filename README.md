@@ -12,22 +12,5 @@ test 3
 
 3. 우리나라3
 
-4. test 4 master 수동 커밋
-
-5. test git md
-
-6. local edit
-
-7. tag test
-
-9. PC 변경 
-
-10. web 에서 변경 
-
-11. web 에서 변경 
-
-
-12 PC 변경 
-
 
 PC 수정 
